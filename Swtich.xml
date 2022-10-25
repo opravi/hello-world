@@ -1,0 +1,7 @@
+<cimBreaker rdf:ID="Switch_1">
+
+    <cim:Naming.name>73109J0001<cim:Naming.name>
+
+    <cim:Switch.normalOpen>false</cim:Switch.normalOpen>
+
+ </cim:Breaker>
